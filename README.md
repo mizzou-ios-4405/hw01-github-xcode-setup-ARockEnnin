@@ -7,5 +7,5 @@ After reading the instructions, update the information below as directed.
 
 Name: Ahmad Ennin
 Course: INFOTC 4405 / CMP_SC 4405
-Section: In person
+Section: In person (Section 2)
 Semester: Spring 2026
